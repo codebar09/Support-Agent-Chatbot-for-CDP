@@ -63,6 +63,8 @@ src/
 ├── App.tsx             # Main application component
 └── main.tsx           # Application entry point
 ```
+## screenshot
+![image](https://github.com/user-attachments/assets/2696de0d-fe6f-4807-94ac-0aa0bf337248)
 
 ## Features in Detail
 
